@@ -53,17 +53,17 @@ a:hover {
 }
 
 .color {
-  background-image: url("images/color.jpg");
+  background-image: url("color.jpg");
   min-height: 100%;
 }
 
 .green {
-  background-image: url("images/green.jpg");
+  background-image: url("green.jpg");
   min-height: 400px;
 }
 
 .sea {
-  background-image: url("images/sea.jpg");
+  background-image: url("sea.jpg");
   min-height: 400px;
 }
 .section {
